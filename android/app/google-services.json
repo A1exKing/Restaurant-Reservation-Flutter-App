@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "8500690359",
+    "firebase_url": "https://restaurant-reservation-9452d-default-rtdb.firebaseio.com",
+    "project_id": "restaurant-reservation-9452d",
+    "storage_bucket": "restaurant-reservation-9452d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8500690359:android:664d226e7caa6c9f8a3c32",
+        "android_client_info": {
+          "package_name": "com.example.rest_reservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9le27ZmzYdqrz3yF4zRPRmKtbJzk9JMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
